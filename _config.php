@@ -9,7 +9,7 @@
  * Sponsored by Exadium Web Development
  */
 
-	Object::add_extension('SiteTree', 'BreadcrumbNavigation');
+	SS_Object::add_extension('SiteTree', 'BreadcrumbNavigation');
 
 /**
 	Set the following options in mysite/_config.php.
